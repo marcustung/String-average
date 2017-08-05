@@ -1,0 +1,11 @@
+c:\users\marcus\documents\visual studio 2015\Projects\String-average\String-average\bin\Debug\String-average.exe.config
+c:\users\marcus\documents\visual studio 2015\Projects\String-average\String-average\bin\Debug\String-average.exe
+c:\users\marcus\documents\visual studio 2015\Projects\String-average\String-average\bin\Debug\String-average.pdb
+c:\users\marcus\documents\visual studio 2015\Projects\String-average\String-average\obj\Debug\String-average.exe
+c:\users\marcus\documents\visual studio 2015\Projects\String-average\String-average\obj\Debug\String-average.pdb
+c:\users\marcus\documents\visual studio 2015\Projects\String-average\String-average\bin\Debug\nunit.framework.dll
+c:\users\marcus\documents\visual studio 2015\Projects\String-average\String-average\bin\Debug\nunit.framework.xml
+c:\users\marcus\documents\visual studio 2015\Projects\String-average\String-average\obj\Debug\String-average.csprojResolveAssemblyReference.cache
+C:\Users\Marcus\Documents\GitHub\String-average\String-average\String-average\bin\Debug\String-average.exe.config
+C:\Users\Marcus\Documents\GitHub\String-average\String-average\String-average\obj\Debug\String-average.exe
+C:\Users\Marcus\Documents\GitHub\String-average\String-average\String-average\obj\Debug\String-average.pdb

@@ -1,0 +1,9 @@
+c:\users\marcus\documents\visual studio 2015\Projects\String-average\String-averageTests1\obj\Debug\String-averageTests1.csprojResolveAssemblyReference.cache
+c:\users\marcus\documents\visual studio 2015\Projects\String-average\String-averageTests1\bin\Debug\String-averageTests1.dll
+c:\users\marcus\documents\visual studio 2015\Projects\String-average\String-averageTests1\bin\Debug\String-averageTests1.pdb
+c:\users\marcus\documents\visual studio 2015\Projects\String-average\String-averageTests1\bin\Debug\nunit.framework.dll
+c:\users\marcus\documents\visual studio 2015\Projects\String-average\String-averageTests1\bin\Debug\String-average.exe
+c:\users\marcus\documents\visual studio 2015\Projects\String-average\String-averageTests1\bin\Debug\String-average.pdb
+c:\users\marcus\documents\visual studio 2015\Projects\String-average\String-averageTests1\bin\Debug\nunit.framework.xml
+c:\users\marcus\documents\visual studio 2015\Projects\String-average\String-averageTests1\obj\Debug\String-averageTests1.dll
+c:\users\marcus\documents\visual studio 2015\Projects\String-average\String-averageTests1\obj\Debug\String-averageTests1.pdb
